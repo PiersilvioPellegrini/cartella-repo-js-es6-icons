@@ -1,4 +1,8 @@
-[
+ 
+ 
+ //array dati card
+ 
+ const dataCard =[
 	{
 		name: 'cat',
 		prefix: 'fa-',
